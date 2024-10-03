@@ -1,0 +1,7 @@
+[package]
+name = "DIDCOMM-DEMO"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+didcomm = "0.4.1"
